@@ -1,6 +1,7 @@
 # Adwaita theme for Zed
 
-Port of https://github.com/piousdeer/vscode-adwaita.
+- UI colors from libadwaita apps (with some tweaks)
+- Syntax highlighting from [Catppuccin](https://github.com/catppuccin/zed) Mocha and Latte themes
 
 ## Installation
 
