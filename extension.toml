@@ -1,0 +1,7 @@
+id = "adwaita"
+name = "Adwaita Theme"
+schema_version = 1
+version = "0.0.1"
+authors = ["Benjamin Davies <bentendavies@gmail.com>"]
+description = "Adwaita (GNOME) theme for Zed"
+repository = "https://github.com/Benjamin-Davies/zed-theme-adwaita"
