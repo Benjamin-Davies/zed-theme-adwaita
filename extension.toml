@@ -1,7 +1,7 @@
-id = "adwaita"
-name = "Adwaita Theme"
+id = "adwaita-pastel"
+name = "Adwaita Pastel Theme"
 schema_version = 1
 version = "0.0.1"
 authors = ["Benjamin Davies <bentendavies@gmail.com>"]
-description = "Adwaita (GNOME) theme for Zed"
+description = "Adwaita (GNOME) theme for Zed with bold syntax highlighting borrowed from Catppuccin"
 repository = "https://github.com/Benjamin-Davies/zed-theme-adwaita"
