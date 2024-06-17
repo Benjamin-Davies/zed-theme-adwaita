@@ -1,4 +1,4 @@
-# Adwaita theme for Zed
+# Adwaita Pastel theme for Zed
 
 Adwaita (GNOME) theme for Zed with bold syntax highlighting borrowed from Catppuccin
 
